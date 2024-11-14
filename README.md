@@ -3,7 +3,7 @@ This is wine website.
 
 ![wine1](https://github.com/user-attachments/assets/2817c5c1-ba82-496e-8324-6e6a23a19776)
 
-- [Demo Project](https://code-banu.github.io/Animation/)
+- [Demo Project](https://code-banu.github.io/wine/)
 
 - Developed by Raheleh Banam
 
