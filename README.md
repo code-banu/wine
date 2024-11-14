@@ -1,7 +1,7 @@
 # wine
 This is wine website.
 
-![trick3](https://github.com/user-attachments/assets/cda7c18a-569d-4947-a118-129850b39d35)
+![wine1](https://github.com/user-attachments/assets/2817c5c1-ba82-496e-8324-6e6a23a19776)
 
 - [Demo Project](https://code-banu.github.io/Animation/)
 
